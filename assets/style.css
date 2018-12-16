@@ -1,0 +1,76 @@
+.navbar{
+    border: 1px;
+    border-style: outset;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: ghostwhite;
+}
+
+.navbar-brand{
+    background-color:ghostwhite;
+    padding: inherit;
+    font-size: 30px;
+    
+}
+.body .html{
+    height: 100%;
+}
+
+.page-header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: solid;
+    border-color: #dddddd;
+    color: #4aaaa5;
+    margin-bottom: 10px;
+}
+
+.body {
+    background-image: url("images/full-bloom.png");
+    background-position: center;
+    background-repeat: repeat;
+}
+
+.jumbotron{
+      border: 1px;
+      border-style: outset;
+      margin-top: 40px;
+}
+
+.imgfluid{
+    max-width: 200px;
+    max-height: 200px;
+
+}
+
+.jumbotronport{
+    border: 1px;
+    border-style: outset;
+    margin-top: 40px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background: #dddddd;
+    border-style: groove;
+    display: flex;
+    flex-flow: wrap;
+
+}
+
+.img1, .img2, .img3, .img4, .img5{
+    border-style: solid;
+    background-color: #ced4da;
+    border-width: 1px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    width: 250px;
+    height: fit-content;
+}
+
+.header1{
+    border-style:solid;
+    background-color: #4aaaa5;
+    border-width: 1px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    max-height: max-content;
+    width: 100%;
+}
